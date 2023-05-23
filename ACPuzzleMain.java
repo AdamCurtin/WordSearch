@@ -4,7 +4,11 @@
 // Assignment: Word Search Puzzle
 // Purpose: Test Class. Responsible for main execution of word search puzzle program.
 // Handles user input, menu options, and interaction with other classes.
-
+/* Cited Sources: 
+https://www.java67.com/2014/10/how-to-create-and-initialize-two-dimensional-array-java-example.html
+https://codehs.gitbooks.io/apjava/content/Data-Structures/2d-arrays.html
+https://www.geeksforgeeks.org/different-ways-to-declare-and-initialize-2-d-array-in-java/
+*/
 package puzzleAssignmentbyAdam;
 
 import java.util.Scanner;
